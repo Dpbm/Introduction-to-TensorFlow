@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 tensorflow = "*"
 jupyterlab = "*"
+pandas = "*"
+seaborn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
