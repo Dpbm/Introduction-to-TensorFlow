@@ -9,6 +9,7 @@ jupyterlab = "*"
 pandas = "*"
 seaborn = "*"
 scikit-learn = "*"
+tensorflow-datasets = "*"
 
 [dev-packages]
 
